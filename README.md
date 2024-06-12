@@ -6,6 +6,7 @@ link de behance portfolio elegido: https://www.behance.net/gallery/140168573/Ful
 
 link iconos:https://iconos8.es/
 link de pagina para editar logos:https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:f9312d1b-e1fd-40ae-b0e5-e8f0160936f5?category=yourStuff&tab=Files
+
 Descripción del Trabajo:
 
 Para este trabajo práctico final, cada alumno deberá crear una página web tipo portfolio. La inspiración debe buscarse en plataformas como Dribbble o Behance , y es fundamental que el diseño elegido sea único y no se repita entre los compañeros. La página debe replicar exactamente el diseño seleccionado, siendo 100% fiel al original.
