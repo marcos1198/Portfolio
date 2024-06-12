@@ -209,7 +209,9 @@ body {
     margin: 0 30px;
     font-weight: 500;
 }
-
+nav a.active, nav a:hover {
+    color: #00bcd4; /* Color azul claro para enlace activo o al pasar el mouse */
+}
 .portfolio nav a:hover {
     color: #00b8d4;
 }
